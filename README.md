@@ -5,8 +5,7 @@ Help school district to make informed decision by analysing the school expenditu
 
 
 ### Problem:
-School district has found the discrepencies with the marks in one of the school. School district administration have decided to take away Mathematics marks for the Thomas High School and they want to know if it has any impact on the overall population. 
-They have also requested some of the key stats like top schools with highest pass rate based on the budget, size and type. 
+School district has found the discrepencies with the marks in one of the school. School district administration have decided to take away score for the Thomas High School and they want to know if it has any impact on the overall population. They have also requested some of the key stats like top schools with highest pass rate based on the budget, size and type. 
 
 
 ### Execution
@@ -21,8 +20,8 @@ As suggested Mathmatics score for all the 461 students of the Thomas High School
 <img width="984" alt="Screen Shot 2021-11-21 at 5 40 37 PM" src="https://user-images.githubusercontent.com/93223274/142781759-e9b16f8a-8f1e-4cd7-9551-cc3c99c1a184.png">
 
   - Most successful shool are Charter type whereas District types are least performing
-  - Student sizes are compartively smaller in the top perfomer school in comparision to the least performing. 
-  - Interestingly budget per student in most least performing school is usually greater than in higher perfomer. In my opinion how budget is being allocated in educational purposes  needs to be looked at. 
+  - Student sizes are compartively smaller in the top perfomer school. 
+  - Interestingly budget per student in most least performing school is usually greater. It may have to do with how effectively budget is being used in educational purposes
 
 #### Math vs Reading Score by school and grades
 <img width="447" alt="Screen Shot 2021-11-21 at 5 47 50 PM" src="https://user-images.githubusercontent.com/93223274/142782000-3b1e957f-d709-4b41-8abf-643a9f457b3d.png">
@@ -30,7 +29,7 @@ As suggested Mathmatics score for all the 461 students of the Thomas High School
 
 #### Effect of Budget 
 <img width="968" alt="Screen Shot 2021-11-21 at 5 52 23 PM" src="https://user-images.githubusercontent.com/93223274/142782103-1fc5b79b-6f9e-46a1-81c9-ddbbc5cb8b0d.png">
-  - Results are quite different than what i had expected. Fig clearly shows that schools with higher budget per student are least performing. In my opinion it is also the matter about how budget is being allocated within the school. 
+  - Results are quite different than what i had expected. Analysis clearly shows that schools with higher budget per student are least performing. In my opinion it is also the matter about how budget is being allocated within the school. 
 
  #### Effect of School Size 
  <img width="975" alt="Screen Shot 2021-11-21 at 5 55 17 PM" src="https://user-images.githubusercontent.com/93223274/142782188-b68fe2f9-be64-4160-80c7-c69c44302d7d.png">
