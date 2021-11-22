@@ -38,7 +38,7 @@ As suggested Mathmatics score for all the 461 students of the Thomas High School
   ### Effect by School Type
   <img width="952" alt="Screen Shot 2021-11-21 at 5 56 59 PM" src="https://user-images.githubusercontent.com/93223274/142782237-95b5fc73-a63c-4ba6-a048-9163e4c5616f.png">
   
-    - Without the doubt Charter school are performing quite well than the disctrict schools.
+    - Without the doubt Charter school are performing quite well than the district schools.
       
 
   ### Summary : 
